@@ -7,7 +7,7 @@ Many cryptocurrency holders face a dilemma when it comes to staking their assets
 ## Sequence Diagram
 Here is the sequence diagram illustrating the VaultFi project:
 
-![VaultFi Sequence Diagram](https://diagrams.helpful.dev/d/d:cbWzAmgN)
+![VaultFi Sequence Diagram](https://github.com/samarabdelhameed/pics/blob/main/VaultFi.png)
 
 [View fullscreen](https://github.com/samarabdelhameed/pics/blob/main/VaultFi.png) 
 
